@@ -1,4 +1,4 @@
-# https://open.kattis.com/problems/bela
+# Bela https://open.kattis.com/problems/bela
 
 def check(hand, dom):
     h = hand[0]
